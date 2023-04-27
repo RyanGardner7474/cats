@@ -1,0 +1,83 @@
+/* CSS Document
+
+#5C3317 - Dark Brown
+#804720 - Brown
+#F7A26C - Tangerine
+#CCAF9D - Desert Sand
+#E76A1A - Spanish Orange
+
+
+
+
+*/
+
+body {
+	background-color:#CCAF9D;
+}
+
+h1 {
+	text-align:center;
+	color:#E76A1A;
+}
+
+.right {
+	text-align:left;
+}
+
+h2 {
+	color:#E76A1A;
+}
+
+p {
+	display:block;
+	width:90%;
+	color:#5C3317;
+}
+
+
+.catnav {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+map {
+	align-content: center;
+}
+
+
+
+nav {
+	padding-top:500px;
+	width:100%;
+	text-align:center;
+}
+
+
+
+li {
+	padding:10px 20px;
+}
+
+
+ul li {
+	display:inline-block;
+	
+}
+
+a {
+	text-decoration: none;
+	color:#5C3317;
+	font-size:2em;
+}
+
+.copyright {
+	font-size:0.6em;
+}
+
+
+
+
+
+
+

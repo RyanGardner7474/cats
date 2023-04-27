@@ -1,0 +1,131 @@
+/* CSS Document
+
+#5C3317 - Dark Brown
+#804720 - Brown
+#F7A26C - Tangerine
+#CCAF9D - Desert Sand
+#E76A1A - Spanish Orange
+
+
+
+
+*/
+
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    padding: 0;
+    margin:0;
+    border:0;
+}
+
+
+
+body {
+	background-color:#CCAF9D;
+}
+
+h1 {
+	text-decoration: underline;
+	text-align:center;
+	color:#E76A1A;
+}
+
+h2 {
+	color:#E76A1A;;
+}
+
+p {
+	width:95%;
+	color:#5C3317;
+	padding-left:3%;
+}
+
+.mainimg {
+	background-color:#F7A26C;
+	padding:10px;
+	box-shadow: 3px 3px 5px 2px #000;
+}
+
+.catnav {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main {
+	padding-left:10px;
+	width:98%;
+}
+
+map {
+	align-content: center;
+}
+
+td {
+	padding-right:10px;
+	font-size:1.2em;
+	font-weight:bold;
+	color:#5C3317;
+	padding:10px;
+}
+
+#submit {
+	color:#804720;
+	padding:5px;
+}
+
+#reset {
+	color:#804720;
+	padding:5px;
+}
+
+.right {
+	float:right;
+}
+
+footer {
+	
+}
+
+
+
+nav {
+	margin-top:500px;
+	width:100%;
+	text-align:center;
+}
+
+nav a:hover {
+	color:#804720;
+	font-size:2.05em;
+}
+
+
+
+li {
+	padding:10px 20px;
+}
+
+
+ul li {
+	display:inline-block;
+}
+
+a {
+	text-decoration: none;
+	color:#5C3317;
+	font-size:2em;
+}
+
+.copyright {
+	font-size:0.6em;
+	padding-left:1%;
+}
+
+
+
+
+
+
+
